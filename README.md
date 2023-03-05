@@ -18,6 +18,5 @@
 * THEN I am taken to the corresponding section of the README
 
 
-
-https://user-images.githubusercontent.com/119153351/222975635-acbcdc0b-569b-41c8-8eee-3b90b3f9258f.mp4
+https://user-images.githubusercontent.com/119153351/222975875-50745aae-74f4-442c-9167-90d4d4b44243.mp4
 
