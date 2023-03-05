@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Minthare/THEGR8-README-generator#readme",
   "dependencies": {
-    "inquirer": "^9.1.4"
+    "inquirer": "^8.2.4"
   }
 }
